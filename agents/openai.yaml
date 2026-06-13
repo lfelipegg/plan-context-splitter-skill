@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plan Context Splitter"
+  short_description: "Split plans into Codex-ready work packets"
+  default_prompt: "Use $plan-context-splitter to split this project plan into ordered Codex execution packets."
